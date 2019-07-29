@@ -1,0 +1,41 @@
+*{
+  padding: 0;
+margin: 2;
+box-sizing: border-box;
+}
+
+.title{
+  font-size: 50px;
+display: flex;
+  justify-content: center;
+font-family: 'Shadows Into Light', cursive;
+color: #BFADA3;
+}
+
+body {
+  background-color: #8095BF;
+}
+.Countdown {
+  font-size: 35px;
+  display: flex;
+    justify-content: center;
+  color: #BF5468;
+font-family: 'Fira Code', monospace;
+}
+#timer {
+  font-size: 70px;
+  display: flex;
+    justify-content: center;
+  color: #345573;
+font-family: 'Fira Code', monospace;
+}
+img{
+width: 320px;
+length: 350px;
+border: 5px solid #BF5468
+}
+div{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
